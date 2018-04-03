@@ -7,6 +7,8 @@ Catalão/GO
 
 **E-mail:** ruitercomp@gmail.com
 
+**Skype:** ruitercomp
+
 **Linkedin:** [https://www.linkedin.com/in/ruitermatos/](https://www.linkedin.com/in/ruitermatos/)
 
 **Github:** [https://github.com/ruiter](https://github.com/ruiter)
