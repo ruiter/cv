@@ -33,7 +33,9 @@ Catalão/GO
 
 * **Projetos Pessoais**
 
-> Atualmente, em meus projetos pessoais, tenho feito melhorias buscando as melhores práticas no desenvolvimento android, testando e implementando frameworks e aplicando conceitos de arquiteturas de software para android.
+  * MemSave
+  
+  > O MemSave é um app para Android que auxilia na memorização de frases ou palavras, através de um conceito chamado de flashcards.
 
 ---
 
@@ -48,6 +50,7 @@ Catalão/GO
 * Testes (Unit, Instrumentais)
 * Okhttp
 * Material Design
+* Android Jetpack
 * Google Play Console
 
 **Linguagens de programação:**
@@ -70,6 +73,7 @@ Catalão/GO
 * GitLab
 * Google Analytics
 * Amazon (S3, Device Farm)
+* OneSignal
 
 ---
 
