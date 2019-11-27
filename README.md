@@ -35,7 +35,7 @@ Catalão/GO
 
   * MemSave
   
-  > O MemSave é um app para Android que auxilia na memorização de frases ou palavras, através de um conceito chamado de flashcards.
+  > O [MemSave](https://play.google.com/store/apps/details?id=com.memsave&hl=pt_BR) é um app para Android que auxilia na memorização de frases ou palavras, através de um conceito chamado de flashcards.
 
 ---
 
